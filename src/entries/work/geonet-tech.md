@@ -1,6 +1,6 @@
 ---
 title: Intern
-organization: Geonet Technologies Ltds
+organization: Geonet Technologies Ltd
 organizationUrl: https://www..com
 location: Nairobi, KE
 start: 2015-02-05
