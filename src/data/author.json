@@ -5,18 +5,18 @@
     "avatar": "avatar.jpg",
     "pronouns": "he/his",
     "email": "isaackmaiwa@gmail.com",
-    "telephone": "+254 725 696496",
+    "telephone": "+254725696496",
     "website": "",
     "skills": [
-        "HTML",
-        "CSS",
         "Javascript / ES6",
         "UI Design",
         "React",
         "Git",
         "Golang",
+        "Docker",
+        "CI/CD",
         "Python (Django/Flask)",
-        "PHP (Laravel/CI"
+        "PHP (Laravel/CI)"
     ],
     "languages": [
         {
