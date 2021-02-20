@@ -1,10 +1,9 @@
 ---
-title: Software Developer
+title: Senior Software Developer
 organization: PowerGen Renewable Energy
 organizationUrl: https://www.powergen-renewable-energy.com
 location: Kericho, Kenya
-start: 2018-01-18
-end: 2021-01-31
+start: 2021-02-01
 ---
 
 ▪ Design and develop the AMIni platform.
