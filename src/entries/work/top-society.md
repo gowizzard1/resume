@@ -1,7 +1,7 @@
 ---
 title: Technology Consultant
 organization: Top Society Ltd
-organizationUrl: https://www..com
+organizationUrl: https://www.top-society.com
 location: Nairobi, KE
 start: 2015-02-05
 end: 2018-01-01
