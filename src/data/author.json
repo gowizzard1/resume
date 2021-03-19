@@ -10,20 +10,21 @@
     "skills": [
         "Javascript / ES6",
         "UI Design",
+        "Kotlin",
         "React",
         "Git",
         "Golang",
         "Docker",
         "CI/CD",
         "Python (Django/Flask)",
-        "PHP (Laravel/CI)"
+        "PHP (Laravel/CI)",
+        "Java"
     ],
     "languages": [
         {
             "name": "English",
             "level": "native"
         },
-       
         {
             "name": "French",
             "level": "basic"
