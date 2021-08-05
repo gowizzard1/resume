@@ -1,6 +1,6 @@
 ---
-title: Software Developer
-organization: PowerGen Renewable Energy
+title: Full Stack Engineer
+organization: Andela Kenya
 organizationUrl: https://www.powergen-renewable-energy.com
 location: Kericho, Kenya
 start: 2021-05-20
