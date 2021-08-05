@@ -6,7 +6,9 @@ location: Remote,Kenya
 start: 2021-05-20
 ---
 
-▪ Design and develop an tool that dispatches work at Frontdoor Inc using ReactJs
+▪ Design and develop an tool that dispatches work using ReactJs
 ▪ Contibute to API design and development 
 ▪ Contributed to ticket grooming and sizing.
-▪ Code reviews   
+▪ Code reviews  
+▪ Work with clients during the planning phase of projects 
+▪ Managing projects
