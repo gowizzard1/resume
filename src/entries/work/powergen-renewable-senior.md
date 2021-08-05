@@ -4,7 +4,7 @@ organization: PowerGen Renewable Energy
 organizationUrl: https://www.powergen-renewable-energy.com
 location: Kericho, Kenya
 start: 2021-02-01
-end: 2021-06-15
+end: 2021-05-15
 ---
 
 ▪ Design and develop the AMIni platform.
