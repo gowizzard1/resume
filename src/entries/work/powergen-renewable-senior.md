@@ -4,6 +4,7 @@ organization: PowerGen Renewable Energy
 organizationUrl: https://www.powergen-renewable-energy.com
 location: Kericho, Kenya
 start: 2021-02-01
+end: 2021-06-15
 ---
 
 ▪ Design and develop the AMIni platform.
@@ -13,4 +14,5 @@ start: 2021-02-01
 ▪ Resolving customer issues that are software related
 ▪ Directly worked with the Customer Engagement team to identify and build tools that make the customer experience better.
 ▪ Configured and deployed monitoring(Prometheus and Grafana)
-▪ Design and development of a ticketing service that can interface with any CRM.    
+▪ Design and development of a ticketing service that can interface with any CRM. 
+▪ Lead a team of junior and mid level engineers  
