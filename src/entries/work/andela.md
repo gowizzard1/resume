@@ -2,7 +2,7 @@
 title: Full Stack Engineer
 organization: Andela Kenya
 organizationUrl: https://www.powergen-renewable-energy.com
-location: Kericho, Kenya
+location: Remote,Kenya
 start: 2021-05-20
 ---
 
